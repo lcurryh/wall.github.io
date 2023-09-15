@@ -65,7 +65,7 @@
 
 We have developed an innovative algorithm based on TOOD, aiming to enhance the performance of strawberry ripeness detection. This algorithm incorporates the CARAFE-FPN + Swin-B + MST + Albu + Saam modules and improves the model in the following ways: Firstly, the introduction of the Swin-B module in the backbone network enhances the accuracy of feature extraction. Secondly, the traditional feature pyramid network is replaced by CARAFE-FPN to improve detection efficacy across different scales. Additionally, we employ the MST training method to enhance the detection capability of small objects. Furthermore, the utilization of the albu library for feature augmentation empowers the model with better generalization ability. Lastly, by improving the S-aam header, we mitigate the impact of parameters on network performance and determine the optimal network parameters to achieve the highest detection accuracy. Through this series of improvements, our model achieves an average precision (AP) of 74.1% on the LSDS strawberry dataset, surpassing the performance of currently advanced single-stage and two-stage networks.
 
-
+<div align="center">
 <img src="https://s2.loli.net/2023/09/06/bQ2hM5aBeqJmTKo.png" width="700px">
 
 ## Ours Strawberries dataset
