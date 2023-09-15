@@ -104,7 +104,7 @@ Detailed experimental results can be found by clicking the link below
 In order to further scrutinize the relationship between them, we apply the method of analysis of variance (ANOVA) using the single-factor ANOVA feature available in the SPSS software to evaluate whether there are disparities between the various magnitudes of measurement and the experimental outcomes.
 #### Results of homogeneity test of variance<a href="https://s2.loli.net/2023/09/08/e9XsxpOdgqy2n4v.jpg">Click here to view </a>
 #### Table of significant differences between different multiples of α<a href="https://s2.loli.net/2023/09/08/eIavwKHz9RZr6ob.jpg">Click here to view </a>
-
+#### Experimental results of NMS for different α multiples of datasets<a href="https://s2.loli.net/2023/09/08/eIavwKHz9RZr6ob.jpg">Click here to view </a>
 
 ## The outcomes of our model tested on various datasets.
 To assess the efficacy of the improved model on a variety of datasets, experiments were conducted on four different datasets for both the improved model and the baseline model. The following table presents diverse performance metrics, namely AP, AP50, and AP75, during training on the LSDS, StrawDI_Db1, Internet, and COCO datasets.
