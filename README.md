@@ -67,6 +67,7 @@ We have developed an innovative algorithm based on TOOD, aiming to enhance the p
 
 <div align="center">
 <img src="https://s2.loli.net/2023/09/06/bQ2hM5aBeqJmTKo.png" width="700px">
+</div>
 
 ## Ours Strawberries dataset
 We have the largest strawberry dataset of our own, with a total of 5600 photos. We used the dataset augmentation method (https://roboflow.com/) to expand to 16800 images. The training set contains 13,800 images and the test set contains 3,000 images. The data set is named "LSDS".
