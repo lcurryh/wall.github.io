@@ -66,7 +66,7 @@
 We have developed an innovative algorithm based on TOOD, aiming to enhance the performance of strawberry ripeness detection. This algorithm incorporates the CARAFE-FPN + Swin-B + MST + Albu + Saam modules and improves the model in the following ways: Firstly, the introduction of the Swin-B module in the backbone network enhances the accuracy of feature extraction. Secondly, the traditional feature pyramid network is replaced by CARAFE-FPN to improve detection efficacy across different scales. Additionally, we employ the MST training method to enhance the detection capability of small objects. Furthermore, the utilization of the albu library for feature augmentation empowers the model with better generalization ability. Lastly, by improving the S-aam header, we mitigate the impact of parameters on network performance and determine the optimal network parameters to achieve the highest detection accuracy. Through this series of improvements, our model achieves an average precision (AP) of 74.1% on the LSDS strawberry dataset, surpassing the performance of currently advanced single-stage and two-stage networks.
 
 
-<img src="https://s2.loli.net/2023/09/06/bQ2hM5aBeqJmTKo.png" width="1000px">
+<img src="https://s2.loli.net/2023/09/06/bQ2hM5aBeqJmTKo.png" width="700px">
 
 ## Ours Strawberries dataset
 We have the largest strawberry dataset of our own, with a total of 5600 photos. We used the dataset augmentation method (https://roboflow.com/) to expand to 16800 images. The training set contains 13,800 images and the test set contains 3,000 images. The data set is named "LSDS".
@@ -74,7 +74,7 @@ We have the largest strawberry dataset of our own, with a total of 5600 photos. 
 ### LSDS Dataset example
 
 
-<img src="https://s2.loli.net/2023/09/06/r2G9ODnwQ8aomIx.jpg" width="1000px">
+<img src="https://s2.loli.net/2023/09/06/r2G9ODnwQ8aomIx.jpg" width="700px">
 
 </div>
 
@@ -95,7 +95,7 @@ We have observed that the parameters α and β in the formula t=s^α×u^β, as w
 ## Multidimensional graph
 
 
-<img src="https://s2.loli.net/2023/09/07/n6eA3RHLIZWMFDu.png" width="1000px">
+<img src="https://s2.loli.net/2023/09/07/n6eA3RHLIZWMFDu.png" width="700px">
 
 Detailed experimental results can be found by clicking the link below
 <a href="https://s2.loli.net/2023/09/08/SBYqaCUVGrWcsPL.jpg">Click here to view </a>
@@ -120,4 +120,4 @@ To assess the efficacy of the improved model on a variety of datasets, experimen
  ## Test result
  The results obtained from testing were based on the models proposed in b and d, while a and c represent the results obtained from the baseline models. The LDSD dataset was employed for experimentation.
 
-<img src="https://s2.loli.net/2023/09/07/IC2zEQT7paADX5r.jpg" width="1000px">
+<img src="https://s2.loli.net/2023/09/07/IC2zEQT7paADX5r.jpg" width="700px">
