@@ -124,8 +124,9 @@ To assess the efficacy of the improved model on a variety of datasets, experimen
 
  ## Our model structure diagram
  <div align="center">
+<img src="https://s2.loli.net/2023/09/07/9Fp7vQY8lbxjS3u.jpg" width="900px">
+  
 
- ![论文图5555.jpg](https://s2.loli.net/2023/09/07/9Fp7vQY8lbxjS3u.jpg)
  </div>
  
  ## Test result
