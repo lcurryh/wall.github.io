@@ -1,6 +1,9 @@
 <div align="center">
  
  ![火箭.png](https://s2.loli.net/2023/09/06/ZipkBhjlL1y4seR.png)
+
+<img src="https://s2.loli.net/2023/09/06/ZipkBhjlL1y4seR.png" width="210px">
+
  
 </div>
 
