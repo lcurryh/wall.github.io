@@ -91,9 +91,11 @@ The conducted experiment validated the contributions of novel upsampling pyramid
 
 
 We have observed that the parameters α and β in the formula t=s^α×u^β, as well as the threshold for non-maximum suppression (NMS), have a significant impact on the experimental results. We have chosen values of α as 0.5, 1, 1.5, and 2, and values of β as four times, five times, six times, seven times, and eight times α. Lastly, we have experimented with NMS threshold IOU set at 0.6, 0.65, 0.7, and 0.75. By adjusting these parameters, we aim to uncover the relationships among them.
-##Multidimensional graph
 
-![987.png](https://s2.loli.net/2023/09/07/n6eA3RHLIZWMFDu.png)
+## Multidimensional graph
+
+
+<img src="https://s2.loli.net/2023/09/07/n6eA3RHLIZWMFDu.png" width="1000px">
 
 Detailed experimental results can be found by clicking the link below
 <a href="https://s2.loli.net/2023/09/08/SBYqaCUVGrWcsPL.jpg">Click here to view </a>
@@ -117,4 +119,5 @@ To assess the efficacy of the improved model on a variety of datasets, experimen
  
  ## Test result
  The results obtained from testing were based on the models proposed in b and d, while a and c represent the results obtained from the baseline models. The LDSD dataset was employed for experimentation.
-![新的ours对比.jpg](https://s2.loli.net/2023/09/07/IC2zEQT7paADX5r.jpg)
+
+<img src="https://s2.loli.net/2023/09/07/IC2zEQT7paADX5r.jpg" width="1000px">
