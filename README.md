@@ -74,8 +74,9 @@ We have the largest strawberry dataset of our own, with a total of 5600 photos. 
 <a href="https://pan.baidu.com/s/1kxS0curbX3XJ9gp_G6lt4A">Click here to view and download the dataset</a>
 ### LSDS Dataset example
 
-
+<div align="center">
 <img src="https://s2.loli.net/2023/09/06/r2G9ODnwQ8aomIx.jpg" width="700px">
+</div>
 
 </div>
 
@@ -96,7 +97,10 @@ We have observed that the parameters α and β in the formula t=s^α×u^β, as w
 ## Multidimensional graph
 
 
+<div align="center">
 <img src="https://s2.loli.net/2023/09/07/n6eA3RHLIZWMFDu.png" width="700px">
+</div>
+
 
 Detailed experimental results can be found by clicking the link below
 <a href="https://s2.loli.net/2023/09/08/SBYqaCUVGrWcsPL.jpg">Click here to view </a>
@@ -115,10 +119,15 @@ To assess the efficacy of the improved model on a variety of datasets, experimen
 
 
  ## Our model structure diagram
+ <div align="center">
+
  ![论文图5555.jpg](https://s2.loli.net/2023/09/07/9Fp7vQY8lbxjS3u.jpg)
- 
+ </div>
  
  ## Test result
  The results obtained from testing were based on the models proposed in b and d, while a and c represent the results obtained from the baseline models. The LDSD dataset was employed for experimentation.
 
+ <div align="center">
 <img src="https://s2.loli.net/2023/09/07/IC2zEQT7paADX5r.jpg" width="700px">
+ </div>
+
