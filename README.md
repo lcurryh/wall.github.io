@@ -7,7 +7,7 @@
  
 </div>
 
-# The mechanism of improving the generalization computation performance of strawberry ripeness using the coupling TOOD model
+# Upgrading Swin-B Transformer-Based Model for Accurately Identifying Ripe Strawberries by Coupling Task-Aligned One-Stage Object Detection Mechanism
 
 <div align="center">
 
