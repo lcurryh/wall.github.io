@@ -60,6 +60,7 @@
  - Ubuntu 20.04.5 LTS 
  - [MMCV](https://github.com/open-mmlab/mmcv)
  - NVIDIA Tesla P100
+   
 
 ## Introduction
 
