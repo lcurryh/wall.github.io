@@ -81,8 +81,8 @@ neck=dict(
         initial_epoch=4,
         initial_assigner=dict(type='ATSSAssigner', topk=9),
         assigner=dict(type='TaskAlignedAssigner', topk=13),
-        alpha=0.5,           #αparameter setting
-        beta=3,            #βparameter setting
+        alpha=1,           #αparameter setting
+        beta=6,            #βparameter setting
         allowed_border=-1,
         pos_weight=-1,
         debug=False),
