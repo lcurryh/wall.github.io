@@ -92,8 +92,7 @@ neck=dict(
         score_thr=0.05,
         nms=dict(type='nms', iou_threshold=0.70),          #Setting of the NMS threshold iou
         max_per_img=100))
-# optimizer
-optimizer = dict(type='SGD', lr=0.01, momentum=0.9, weight_decay=0.0001)
+
 
 # custom hooks
 custom_hooks = [dict(type='SetEpochInfoHook')]
