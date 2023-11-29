@@ -1,0 +1,4 @@
+
+If you want to set the value of NMS and modify the parameters for 1 and 2, you need to make changes at lines 93, 84, and 85 in the Improved tood_c-fpn_LSDS.py file.
+
+If you want to configure the parameters of the optimizer ADMW, you can modify it below line 32 in the tood_multi-scale training.py file.
